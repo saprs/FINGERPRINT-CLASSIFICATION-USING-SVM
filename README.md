@@ -1,0 +1,2 @@
+# FINGERPRINT-CLASSIFICATION-USING-SVM
+Built a multi-class classifier from the non-linear support vector machines (RBF kernel) using the dataset having fingerprint images. SVM library function in Python was used. A checker program was used that takes fingerprint images as input to train the model. It then predicts the identification number of the person. The checker program resulted in a performance gain of 82%. 
